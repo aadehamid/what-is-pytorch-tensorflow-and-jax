@@ -9,3 +9,5 @@ ml_dtypes
 jax
 jaxlib
 mlx
+jupyter
+ipykernel
