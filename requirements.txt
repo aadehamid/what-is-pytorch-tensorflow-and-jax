@@ -5,9 +5,9 @@ tensorflow
 tensorflow-macos
 tensorflow-metal
 jax-metal
-ml_dtypes
-jax
-jaxlib
+ml_dtypes==0.2.0
+jax==0.4.26
+jaxlib==0.4.26
 mlx
 jupyter
 ipykernel
