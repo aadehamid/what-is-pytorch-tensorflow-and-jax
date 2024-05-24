@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+tensorflow
+tensorflow-macos
+tensorflow-metal
+jax-metal
+ml_dtypes
+jax
+jaxlib
+mlx
